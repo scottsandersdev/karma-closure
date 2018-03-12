@@ -1,5 +1,7 @@
 # karma-closure [![Build Status](https://travis-ci.org/karma-runner/karma-closure.png?branch=master)](https://travis-ci.org/karma-runner/karma-closure)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/scottsandersdev/karma-closure.svg)](https://greenkeeper.io/)
+
 > A Karma plugin that resolves [Google Closure](https://developers.google.com/closure/library/) dependencies on the fly.
 
 ## Installation
